@@ -1,0 +1,31 @@
+h1 {
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+p {
+  margin-left: 50px;
+}
+
+img {
+  margin-top: 80px;
+  margin-left: 50px;
+}
+
+header {
+  padding: 30px;
+  text-align: left;
+  background: #b30e0e;
+  color: rgb(9, 9, 9);
+  font-size: 40px;
+}
+
+nav {
+  padding: 15px;
+  text-align: right;
+  background: #474646;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+}
